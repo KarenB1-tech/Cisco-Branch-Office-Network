@@ -10,7 +10,7 @@ The objective was to configure IPv4 addressing, router interfaces, static routes
 
 ## Network Topology
 
-![Network Topology](Network-topology.jpg)
+![Network Topology](network-topology.jpg)
 
 ---
 
@@ -55,11 +55,11 @@ ip route 192.168.1.0 255.255.255.0 10.0.0.1
 
 ### PC0 to Remote LAN
 
-![PC0 Ping Test](pc0-to-remote-LAN-ping.jpg)
+![PC0 Ping Test](pc0-ping-test.jpg)
 
 ### PC3 to Remote LAN
 
-![PC3 Ping Test](pc3-to-remote-LAN-ping.jpg)
+![PC3 Ping Test](pc3-ping-test.jpg)
 
 ---
 
@@ -78,8 +78,8 @@ ip route 192.168.1.0 255.255.255.0 10.0.0.1
 ## Project Files
 
 - branch-office-static-routing-lab.pkt
-- Network-topology.jpg
+- network-topology.jpg
 - router0-static-route.jpg
 - router1-static-route.jpg
-- pc0-to-remote-LAN-ping.jpg
-- pc3-to-remote-LAN-ping.jpg
+- pc0-ping-test.jpg
+- pc3-ping-test.jpg
